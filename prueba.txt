@@ -1,0 +1,5 @@
+Esta sólo es una prueba
+
+Estoy aprendiendo a usar Git
+
+Este es el primer archivo que trabajo
