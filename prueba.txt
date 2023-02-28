@@ -1,11 +1,7 @@
-1Esta sólo es una prueba
+Esta sólo es una prueba
 
-5Para saber si funcionan los commits
+Estoy aprendiendo a usar Git
 
-2Estoy aprendiendo a usar Git
+Este es el primer archivo que trabajo
 
-6 Let's get it
-
-3Este es el primer archivo que creo usando Git
-
-4Vamos a probarlo
+Agrego la cuarta línea
