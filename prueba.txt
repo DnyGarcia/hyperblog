@@ -1,7 +1,11 @@
-Esta sólo es una prueba
+1Esta sólo es una prueba
 
-Estoy aprendiendo a usar Git
+5Para saber si funcionan los commits
 
-Este es el primer archivo que creo usando Git
+2Estoy aprendiendo a usar Git
 
-Vamos a probarlo
+6 Let's get it
+
+3Este es el primer archivo que creo usando Git
+
+4Vamos a probarlo
